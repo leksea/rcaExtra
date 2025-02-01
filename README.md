@@ -1,5 +1,5 @@
 Readme for rcaExra Repository
-
+```
 **Folder Structure**
 ├── LICENSE
 ├── README.md
@@ -194,7 +194,7 @@ Readme for rcaExra Repository
     └── wmean
         ├── license.txt
         └── wmean.m
-
+```
 **Directory Overview**
 * base -- contains scripts copied from [rcaBase](https://github.com/svndl/rcaBase), as well as refactored (currently not in use) scripts. The scripts are not in sync with the rcaBase repo. 
 * common -- higher-level wrapper scripts around domain-specific analysis.
@@ -207,8 +207,11 @@ Readme for rcaExra Repository
 * toolbox -- misc scripts (sourced from Matlab's package) used in the pipeline.
 
 **Publication Links** 
+
 [Cognitive penetrability of scene representations based on horizontal image disparities](https://pubmed.ncbi.nlm.nih.gov/36284130/)
+
 [Preferential Loss of Contrast Decrement Responses in Human Glaucoma](https://pubmed.ncbi.nlm.nih.gov/36264656/)
+
 [Dynamics of Contrast Decrement and Increment Responses in Human Visual Cortex](https://pubmed.ncbi.nlm.nih.gov/32953246/)
 
 
